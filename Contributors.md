@@ -348,15 +348,15 @@ y- [Eunbin Kwon](https://github.com/eun61n00)
  - [NegiChahan](https://github.com/NegiChahan)
  - [Abdulrhman Ansary](https://github.com/AbdulrhmanAnsary)
  - [Barta Zsombor](https://github.com/l4ttic3zs)
- - [Ayush Dwibedy](https://github.com/<your-username>)
+ - [Ayush Dwibedy](https://github.com/your-username)
  - [Ren Narciso](https://github.com/AbsoluteRivers) 
  - [Juan Pablo Rovayo Delgado](https://github.com/Pablitord)
  - [Arturo Silva](https://github.com/rtr-slv)
  - [Akshay Mahto](https://github.com/akshaymahto)
  - [Arief Shaik](https://github.com/ariefshaik7)
  - [Mukhammad Kharis](https://github.com/mkharis)
- - [Arthur Silva](https://github.com/arthur-aps) O de baixo tem cultura
- - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO
+ - [Arthur Silva](https://github.com/arthur-aps) O de baixo tem cultura)
+ - [Alex Santos](https://github.com/alexaito26) LEBRON JAMES CRISTIANO RONALDO)
  - [Walisson Fernandes](https://github.com/Murynga)
  - [Hamundo](https://github.com/Ha-Mundo)
  - [Alisson Ricady](https://github.com/armg2005)
@@ -3551,7 +3551,7 @@ Darien Edwards
 -[jsinghakan](https://https://github.com/jsinghakan)
 -[gidhub48](https://github.com/gidhub48)
 -[shubham](https://github.com/RoyShubham07)
-- [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw :>
+- [nutipa0](https://github.com/nutipa0)  (I like Big Chonk btw)
 -[Wency](https://github.com/WencySuo) 
 - [Manisha Godara](https://github.com/ManishaGodara-gif)
 -[Stanislav Polyakov](https://github.com/j3n1xnoname)
@@ -3572,3 +3572,6 @@ Darien Edwards
 - [Oubai Bendjedidi](https://github.com/oubaibendjedidi)
 - [Nandani Gupta](https://github.com/Nandani-Guptaa)
 - [Jazmynn Banks](https://github.com/jazmynnbanks)
+- [Erick Wilfred Daniel](https://github.com/erickwdaniel)
+
+
